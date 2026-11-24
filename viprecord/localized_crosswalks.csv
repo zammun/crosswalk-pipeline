@@ -1,0 +1,5 @@
+track_id,mutcd_type,confidence_pct,frame,timestamp_sec,dist_ahead_m,lateral_offset_m,crossing_width_m,crossing_width_ft,crosswalk_depth_m,stripe_spacing_m,vehicle_yaw_rad,road_pitch_rad,est_lat,est_lon
+2,Transverse,61.49,12118,403.93,6.25,0.0,5.4,17.72,2.4,0.6,2.7174,0.0693,33.775549,-84.396272
+3,Transverse,80.46,12665,422.17,6.25,0.0,5.4,17.72,2.4,0.6,2.6681,-0.005,33.77555,-84.396269
+4,Transverse,50.47,28545,951.5,6.25,0.0,5.4,17.72,2.4,0.6,2.3481,-0.0103,33.775561,-84.396252
+5,Transverse,88.58,30335,1011.17,6.25,0.0,5.4,17.72,2.4,0.6,-2.7229,0.0268,33.775549,-84.396327
